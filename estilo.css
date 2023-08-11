@@ -1,22 +1,2 @@
-.cabecalho{background-color:rgb(226, 160, 223);
-            width: auto;
-            padding: 80px;
-            text-align: center;
-        }
-
-
-.corpo{
-    background-color: rgb(222, 240, 156); 
-            width: auto;
-            padding: 200px;
-            text-align:rigth;
-            font-size: 25px;;
-        }
-
-.rodape {background-color:rgb(226, 160, 223);
-    width:auto;
-    padding: 60px;
-    text-align: center;}
-
-
-    
+input{color: rgb(0, 0, 0);
+    background-color: aliceblue;}
